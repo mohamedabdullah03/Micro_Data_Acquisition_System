@@ -1,0 +1,52 @@
+{
+    "board_info": {
+      "model": "Toradex Apalis iMX8QM V1.1 on Apalis Evaluation Board"
+    },
+    "subsystems_available": {
+      "analog_input": {
+        "available": true,
+        "display_name": "Analog Input",
+        "channel_count": 16,
+        "physical_channels": [
+          "Ch-1",
+          "Ch-2",
+          "Ch-3",
+          "Ch-4", 
+          "Ch-5",
+          "Ch-6",
+          "Ch-7",
+          "Ch-8",
+          "Ch-9",
+          "Ch-10",
+          "Ch-11",
+          "Ch-12",
+          "Ch-13",
+          "Ch-14",
+          "Ch-15",
+          "Ch-16"
+        ]
+      },
+     "analog_output": {
+        "available": true,
+        "display_name": "Analog output",
+        "channel_count": 16
+      },
+       "digital_input": {
+        "available": true,
+        "display_name": "Digital input",
+        "channel_count": 16
+        
+      },
+      "digital_output": {
+        "available": true,
+        "display_name": "Digital output",
+        "channel_count": 16
+      },
+      "can_data": {
+        "available": true,
+        "display_name": "Can",
+        "channel_count": 2
+      }
+    }
+  }
+ 

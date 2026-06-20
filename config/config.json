@@ -1,0 +1,562 @@
+{
+  "connection": {
+    "data_processor_ip": "192.168.1.164",
+    "data_port": "6013",
+    "api_port": "6001",
+    "received_at": "2026-05-06T06:46:36.295681"
+  },
+  "bitrate": 1000000,
+  "dbitrate": 1000000,
+  "analog_input": {
+    "1": {
+      "Vref-": -10,
+      "Vref+": 10,
+      "min": -32768,
+      "max": 32767,
+      "scale": 1,
+      "unit": "V"
+    },
+    "2": {
+      "Vref-": -10,
+      "Vref+": 10,
+      "min": -32768,
+      "max": 32767,
+      "scale": 1,
+      "unit": "V"
+    },
+    "3": {
+      "Vref-": -10,
+      "Vref+": 10,
+      "min": -32768,
+      "max": 32767,
+      "scale": 1,
+      "unit": "V"
+    },
+    "4": {
+      "Vref-": -10,
+      "Vref+": 10,
+      "min": -32768,
+      "max": 32767,
+      "scale": 1,
+      "unit": "V"
+    },
+    "5": {
+      "Vref-": -10,
+      "Vref+": 10,
+      "min": -32768,
+      "max": 32767,
+      "scale": 1,
+      "unit": "V"
+    },
+    "6": {
+      "Vref-": -10,
+      "Vref+": 10,
+      "min": -32768,
+      "max": 32767,
+      "scale": 1,
+      "unit": "V"
+    },
+    "7": {
+      "Vref-": -10,
+      "Vref+": 10,
+      "min": -32768,
+      "max": 32767,
+      "scale": 1,
+      "unit": "V"
+    },
+    "8": {
+      "Vref-": -10,
+      "Vref+": 10,
+      "min": -32768,
+      "max": 32767,
+      "scale": 1,
+      "unit": "V"
+    },
+    "9": {
+      "Vref-": -10,
+      "Vref+": 10,
+      "min": -32768,
+      "max": 32767,
+      "scale": 1,
+      "unit": "V"
+    },
+    "10": {
+      "Vref-": -10,
+      "Vref+": 10,
+      "min": -32768,
+      "max": 32767,
+      "scale": 1,
+      "unit": "V"
+    },
+    "11": {
+      "Vref-": -10,
+      "Vref+": 10,
+      "min": -32768,
+      "max": 32767,
+      "scale": 1,
+      "unit": "V"
+    },
+    "12": {
+      "Vref-": -10,
+      "Vref+": 10,
+      "min": -32768,
+      "max": 32767,
+      "scale": 1,
+      "unit": "V"
+    },
+    "13": {
+      "Vref-": -10,
+      "Vref+": 10,
+      "min": -32768,
+      "max": 32767,
+      "scale": 1,
+      "unit": "V"
+    },
+    "14": {
+      "Vref-": -10,
+      "Vref+": 10,
+      "min": -32768,
+      "max": 32767,
+      "scale": 1,
+      "unit": "V"
+    },
+    "15": {
+      "Vref-": -10,
+      "Vref+": 10,
+      "min": -32768,
+      "max": 32767,
+      "scale": 1,
+      "unit": "V"
+    },
+    "16": {
+      "Vref-": -10,
+      "Vref+": 10,
+      "min": -32768,
+      "max": 32767,
+      "scale": 1,
+      "unit": "V"
+    }
+  },
+  "analog_output": {
+    "1": {
+      "output_type": "DC",
+      "option": [
+        "DC",
+        "Square",
+        "Triangle",
+        "Sine"
+      ],
+      "status": true,
+      "amplitude": "100",
+      "frequency": null
+    },
+    "2": {
+      "output_type": "DC",
+      "option": [
+        "DC",
+        "Square",
+        "Triangle",
+        "Sine"
+      ],
+      "status": false,
+      "amplitude": "1",
+      "frequency": null
+    },
+    "3": {
+      "output_type": "DC",
+      "option": [
+        "DC",
+        "Square",
+        "Triangle",
+        "Sine"
+      ],
+      "status": true,
+      "amplitude": "1",
+      "frequency": null
+    },
+    "4": {
+      "output_type": "DC",
+      "option": [
+        "DC",
+        "Square",
+        "Triangle",
+        "Sine"
+      ],
+      "status": true,
+      "amplitude": "1",
+      "frequency": null
+    },
+    "5": {
+      "output_type": "DC",
+      "option": [
+        "DC",
+        "Square",
+        "Triangle",
+        "Sine"
+      ],
+      "status": true,
+      "amplitude": "1",
+      "frequency": null
+    },
+    "6": {
+      "output_type": "DC",
+      "option": [
+        "DC",
+        "Square",
+        "Triangle",
+        "Sine"
+      ],
+      "status": true,
+      "amplitude": "1",
+      "frequency": null
+    },
+    "7": {
+      "output_type": "DC",
+      "option": [
+        "DC",
+        "Square",
+        "Triangle",
+        "Sine"
+      ],
+      "status": true,
+      "amplitude": "1",
+      "frequency": null
+    },
+    "8": {
+      "output_type": "DC",
+      "option": [
+        "DC",
+        "Square",
+        "Triangle",
+        "Sine"
+      ],
+      "status": true,
+      "amplitude": "1",
+      "frequency": null
+    },
+    "9": {
+      "output_type": "DC",
+      "option": [
+        "DC",
+        "Square",
+        "Triangle",
+        "Sine"
+      ],
+      "status": true,
+      "amplitude": "1",
+      "frequency": null
+    },
+    "10": {
+      "output_type": "DC",
+      "option": [
+        "DC",
+        "Square",
+        "Triangle",
+        "Sine"
+      ],
+      "status": true,
+      "amplitude": "5",
+      "frequency": null
+    },
+    "11": {
+      "output_type": "DC",
+      "option": [
+        "DC",
+        "Square",
+        "Triangle",
+        "Sine"
+      ],
+      "status": true,
+      "amplitude": "1",
+      "frequency": null
+    },
+    "12": {
+      "output_type": "DC",
+      "option": [
+        "DC",
+        "Square",
+        "Triangle",
+        "Sine"
+      ],
+      "status": true,
+      "amplitude": "1",
+      "frequency": null
+    },
+    "13": {
+      "output_type": "DC",
+      "option": [
+        "DC",
+        "Square",
+        "Triangle",
+        "Sine"
+      ],
+      "status": true,
+      "amplitude": "1",
+      "frequency": null
+    },
+    "14": {
+      "output_type": "DC",
+      "option": [
+        "DC",
+        "Square",
+        "Triangle",
+        "Sine"
+      ],
+      "status": true,
+      "amplitude": "1",
+      "frequency": null
+    },
+    "15": {
+      "output_type": "DC",
+      "option": [
+        "DC",
+        "Square",
+        "Triangle",
+        "Sine"
+      ],
+      "status": true,
+      "amplitude": "1",
+      "frequency": null
+    },
+    "16": {
+      "output_type": "DC",
+      "option": [
+        "DC",
+        "Square",
+        "Triangle",
+        "Sine"
+      ],
+      "status": true,
+      "amplitude": "1",
+      "frequency": null
+    }
+  },
+  "digital_input": {
+    "1": {
+      "name": "in_digital0_raw"
+    },
+    "2": {
+      "name": "in_digital1_raw"
+    },
+    "3": {
+      "name": "in_digital2_raw"
+    },
+    "4": {
+      "name": "in_digital3_raw"
+    },
+    "5": {
+      "name": "in_digital4_raw"
+    },
+    "6": {
+      "name": "in_digital5_raw"
+    },
+    "7": {
+      "name": "in_digital6_raw"
+    },
+    "8": {
+      "name": "in_digital7_raw"
+    },
+    "9": {
+      "name": "in_digital8_raw"
+    },
+    "10": {
+      "name": "in_digital9_raw"
+    },
+    "11": {
+      "name": "in_digital10_raw"
+    },
+    "12": {
+      "name": "in_digital11_raw"
+    },
+    "13": {
+      "name": "in_digital12_raw"
+    },
+    "14": {
+      "name": "in_digital13_raw"
+    },
+    "15": {
+      "name": "in_digital14_raw"
+    },
+    "16": {
+      "name": "in_digital15_raw"
+    }
+  },
+  "digital_output": {
+    "1": {
+      "output_type": "Level",
+      "option": [
+        "Level",
+        "Waveform"
+      ],
+      "level": "High",
+      "frequency": null,
+      "duty_cycle": null,
+      "status": true
+    },
+    "2": {
+      "output_type": "Level",
+      "option": [
+        "Level",
+        "Waveform"
+      ],
+      "level": "Low",
+      "frequency": null,
+      "duty_cycle": null,
+      "status": false
+    },
+    "3": {
+      "output_type": "Level",
+      "option": [
+        "Level",
+        "Waveform"
+      ],
+      "level": "Low",
+      "frequency": null,
+      "duty_cycle": null,
+      "status": false
+    },
+    "4": {
+      "output_type": "Level",
+      "option": [
+        "Level",
+        "Waveform"
+      ],
+      "level": "Low",
+      "frequency": null,
+      "duty_cycle": null,
+      "status": false
+    },
+    "5": {
+      "output_type": "Level",
+      "option": [
+        "Level",
+        "Waveform"
+      ],
+      "level": "Low",
+      "frequency": null,
+      "duty_cycle": null,
+      "status": false
+    },
+    "6": {
+      "output_type": "Level",
+      "option": [
+        "Level",
+        "Waveform"
+      ],
+      "level": "Low",
+      "frequency": null,
+      "duty_cycle": null,
+      "status": false
+    },
+    "7": {
+      "output_type": "Level",
+      "option": [
+        "Level",
+        "Waveform"
+      ],
+      "level": "Low",
+      "frequency": null,
+      "duty_cycle": null,
+      "status": false
+    },
+    "8": {
+      "output_type": "Level",
+      "option": [
+        "Level",
+        "Waveform"
+      ],
+      "level": "Low",
+      "frequency": null,
+      "duty_cycle": null,
+      "status": false
+    },
+    "9": {
+      "output_type": "Level",
+      "option": [
+        "Level",
+        "Waveform"
+      ],
+      "level": "Low",
+      "frequency": null,
+      "duty_cycle": null,
+      "status": false
+    },
+    "10": {
+      "output_type": "Level",
+      "option": [
+        "Level",
+        "Waveform"
+      ],
+      "level": "Low",
+      "frequency": null,
+      "duty_cycle": null,
+      "status": true
+    },
+    "11": {
+      "output_type": "Level",
+      "option": [
+        "Level",
+        "Waveform"
+      ],
+      "level": "Low",
+      "frequency": null,
+      "duty_cycle": null,
+      "status": false
+    },
+    "12": {
+      "output_type": "Level",
+      "option": [
+        "Level",
+        "Waveform"
+      ],
+      "level": "Low",
+      "frequency": null,
+      "duty_cycle": null,
+      "status": false
+    },
+    "13": {
+      "output_type": "Level",
+      "option": [
+        "Level",
+        "Waveform"
+      ],
+      "level": "Low",
+      "frequency": null,
+      "duty_cycle": null,
+      "status": false
+    },
+    "14": {
+      "output_type": "Level",
+      "option": [
+        "Level",
+        "Waveform"
+      ],
+      "level": "Low",
+      "frequency": null,
+      "duty_cycle": null,
+      "status": false
+    },
+    "15": {
+      "output_type": "Level",
+      "option": [
+        "Level",
+        "Waveform"
+      ],
+      "level": "Low",
+      "frequency": null,
+      "duty_cycle": null,
+      "status": false
+    },
+    "16": {
+      "output_type": "Level",
+      "option": [
+        "Level",
+        "Waveform"
+      ],
+      "level": "Low",
+      "frequency": null,
+      "duty_cycle": null,
+      "status": false
+    }
+  }
+}

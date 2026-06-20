@@ -1,0 +1,28 @@
+2026-01-06 10:07:32,126 [INFO] Connected to GXE600 on /dev/ttyLP3
+2026-01-06 10:07:32,829 [ERROR] Error reading input registers 500: Incomplete response: received 0 bytes
+2026-01-06 10:07:32,829 [WARNING] Could not read model name: Incomplete response: received 0 bytes
+2026-01-06 10:07:33,331 [ERROR] Error reading input registers 500: Incomplete response: received 0 bytes
+2026-01-06 10:07:33,331 [WARNING] Could not read model name: Incomplete response: received 0 bytes
+2026-01-06 10:07:33,332 [INFO] Model Name    : Unknown
+2026-01-06 10:07:33,833 [ERROR] Error reading input registers 520: Incomplete response: received 0 bytes
+2026-01-06 10:07:33,834 [WARNING] Could not read serial number: Incomplete response: received 0 bytes
+2026-01-06 10:07:33,834 [INFO] Serial Number : Unknown
+2026-01-06 10:07:34,336 [ERROR] Error reading input registers 1000: Incomplete response: received 0 bytes
+2026-01-06 10:07:34,336 [WARNING] Could not read firmware version: Incomplete response: received 0 bytes
+2026-01-06 10:07:34,337 [INFO] Firmware Ver. : Unknown
+2026-01-06 10:07:34,838 [ERROR] Error writing register 101: Incomplete response: received 0 bytes
+2026-01-06 10:07:34,839 [ERROR] Unexpected error: Incomplete response: received 0 bytes. Retrying in 5 seconds...
+2026-01-06 10:08:18,891 [INFO] Connected to GXE600 on /dev/ttyLP3
+2026-01-06 10:08:19,593 [ERROR] Error reading input registers 500: Incomplete response: received 0 bytes
+2026-01-06 10:08:19,594 [WARNING] Could not read model name: Incomplete response: received 0 bytes
+2026-01-06 10:08:20,095 [ERROR] Error reading input registers 500: Incomplete response: received 0 bytes
+2026-01-06 10:08:20,096 [WARNING] Could not read model name: Incomplete response: received 0 bytes
+2026-01-06 10:08:20,096 [INFO] Model Name    : Unknown
+2026-01-06 10:08:20,598 [ERROR] Error reading input registers 520: Incomplete response: received 0 bytes
+2026-01-06 10:08:20,598 [WARNING] Could not read serial number: Incomplete response: received 0 bytes
+2026-01-06 10:08:20,599 [INFO] Serial Number : Unknown
+2026-01-06 10:08:21,100 [ERROR] Error reading input registers 1000: Incomplete response: received 0 bytes
+2026-01-06 10:08:21,100 [WARNING] Could not read firmware version: Incomplete response: received 0 bytes
+2026-01-06 10:08:21,101 [INFO] Firmware Ver. : Unknown
+2026-01-06 10:08:21,602 [ERROR] Error writing register 101: Incomplete response: received 0 bytes
+2026-01-06 10:08:21,603 [ERROR] Unexpected error: Incomplete response: received 0 bytes. Retrying in 5 seconds...

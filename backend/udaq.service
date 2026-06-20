@@ -1,0 +1,13 @@
+[Unit]
+Description=uDAQ Backend Service
+After=network.target
+
+[Service]
+User=root
+WorkingDirectory=/root/udaq/backend
+ExecStart=/usr/local/bin/python3 /root/udaq/backend/main.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
